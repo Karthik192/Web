@@ -62,13 +62,13 @@ a {
 .app {
     float: right;
     margin-left: 30px;
-    width: 150px;
+    width: 200px;
 }
 
 .web {
     float: left;
     margin-right: 30px;
-    width: 150px;
+    width: 200px;
 }
 
 hr {
