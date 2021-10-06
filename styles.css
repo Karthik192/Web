@@ -53,7 +53,7 @@ a {
 }
 
 .skill-row {
-    width: 50%;
+    width: 70%;
     margin: 100px auto 100px auto;
     text-align: left;
     line-height: 2;
@@ -61,13 +61,13 @@ a {
 
 .app {
     float: right;
-    margin-left: 30px;
+    margin-left: 100px;
     width: 150px;
 }
 
 .web {
     float: left;
-    margin-right: 30px;
+    margin-right: 100px;
     width: 150px;
 }
 
